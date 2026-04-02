@@ -1,0 +1,13 @@
+**/test/**
+**/tests/**
+**/testing/**
+**/testdata/**
+**/docs/**
+**/examples/**
+**/benchmarks/**
+**/fuzz/**
+**/fuzzing/**
+**/third_party/**
+**/vendor/**
+**/vendors/**
+**/locales/**
